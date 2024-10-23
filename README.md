@@ -13,10 +13,6 @@ This project is a simple contact form built with [Technology stack e.g HTML,CSS]
 - HTML
 - CSS
 
-## SCREENSHORT
-
-Below is the screenshort of the contact form
-[!contact form screenshort](images/Contact-form%20screenshort.PNG)
 
 ## INSTALLATION
 
